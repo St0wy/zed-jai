@@ -1,0 +1,11 @@
+id = "jai"
+name = "Jai"
+version = "0.0.1"
+schema_version = 1
+authors = ["Stowy <stowy@protonmail.ch>"]
+description = "Jai support."
+repository = ""
+
+[grammars.jai]
+repository = "https://github.com/St0wy/tree-sitter-jai"
+commit = "4dd73116893b30a4341c62cbcdca51619b34b154"
