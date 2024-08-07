@@ -4,8 +4,8 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Stowy <stowy@protonmail.ch>"]
 description = "Jai support."
-repository = ""
+repository = "https://github.com/St0wy/zed-jai"
 
 [grammars.jai]
 repository = "https://github.com/St0wy/tree-sitter-jai"
-commit = "284aca90dcbe218e54cdf0dc3605f6f15c6fc205"
+commit = "de14547fd4d9ff8332a1d87bcbd8515d1e47c1d0"
